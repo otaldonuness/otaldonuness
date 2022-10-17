@@ -1,5 +1,5 @@
 <h2 align="center">< Arthur Nunes /></h2>
-<h3 align="center">Full Stack Developer.</h3>
+<h3 align="center">Software Engineer | Front-end Developer.</h3>
 
 Autodidata e empreendedor autônomo. Desde sempre, aventurei-me por diversas áreas, buscando acumular conhecimento e experiências, novas vivências e agarrando todas as oportunidades que batiam à minha porta. Pude trabalhar durante esses anos como Videomaker, Fotógrafo, Produtor cultural e Estagiário de T.I.. Sou apaixonado por desafios e tecnologia, situações complexas me motivam a buscar formas de solucioná-las de maneira eficiente e criativa.
 
@@ -85,8 +85,8 @@ I have knowledge in: Git/GitHub, JavaScript ES6, TypeScript, React, Next.js (SSR
 
 ## ✉️ Contact-me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:contato@otaldonunes.xyz)](mailto:contato@otaldonunes.xyz)<br/> 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:coletivosuburbano@gmail.com)](mailto:coletivosuburbano@gmail.com)<br/> 
 
 ## 📈 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=otaldonunes&count_private=true&show_icons=true&theme=radical&hide_border=true)<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=otaldonuness&count_private=true&show_icons=true&theme=radical&hide_border=true)<br/>
